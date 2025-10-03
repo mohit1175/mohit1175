@@ -10,7 +10,7 @@
 - 🌱 Learning **Data Structures & Algorithms (Python)** and **React with Tailwind CSS**  
 - ⚡ Exploring **Spring Boot, JDBC, Servlets, and Web Development**  
 - 💬 Ask me about **Java, Python, React, and Web Development**  
-- 📫 Reach me at **your-email@gmail.com**  
+- 📫 Reach me at **mohitdeore2005@gmail.com**  
 
 ---
 
